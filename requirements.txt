@@ -1,5 +1,4 @@
-html
-option_menu
-switch_page_button
+streamlit-option-menu
+streamlit-extras
 Image
 re
