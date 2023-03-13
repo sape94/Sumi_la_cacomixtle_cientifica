@@ -1,0 +1,93 @@
+Ya sea en los parques de la ciudad los fines de semana, la espuma del mar de las olas rompiendo en la playa o simplemente flotando sobre nuestra bebida favorita, las burbujas son un espectáculo que guardan a simple vista varios secretos de la ciencia.
+
+Y aunque no lo parezca, los secretos de las burbujas nos llevarán por los caminos de la química, la termodinámica, la óptica, las matemáticas y hasta la física molecular.\n \n 
+
+Todo lo que nos rodea está hecho de pequeños bloques: los átomos y las moléculas.Y cada uno de estos bloques está formado por bloques aún más pequeños que portan carga negativa y positiva. Imaginemos un panal con sus abejas; el panal representaría la parte positiva, y la nube de abejas la parte negativa.
+
+Supongamos que tenemos un panal donde la forma puede ser variada, como correspondería con el caso de una molécula. Mientras más cerca estemos del panal la nube de abejas será más densa. Si para distancias iguales a lo largo del panal la nube de abejas tiene la misma concentración entonces tenemos el caso de una molécula que se denomina **no-polar**, como el oxígeno molecular (O$_{2}$).\n \n
+
+Si, por el contrario, hay mayor concentración de la nube en alguna parte del panal, esta tendría una zona con mayor carga negativa y otra distinta con mayor carga positiva. En este último caso, se formaría un dipolo eléctrico, es decir, dos polos: uno positivo y otro negativo; es por eso por lo que a las moléculas con este tipo de comportamiento se les llama **polares**, como el agua (H$_{2}$O).\n \n 
+
+Ahora, si pensamos que dos o más panales están cerca uno del otro, estos se afectarán entre sí, dando lugar a las fuerzas intermoleculares.
+
+Cuando dos moléculas polares se acercan, la región positiva de una se ve atraída hacia la región negativa de la otra, de forma muy parecida a como sucede con los imanes. Si por otra parte una molécula no-polar se acerca a otra no-polar, las regiones positiva y negativa de una serán repelidas de las regiones positiva y negativa de la otra.
+
+Regresando al ejemplo de las nubes de abejas, es como si la nube de un panal empujara a la nube del otro panal y viceversa, y como resultado de empujarse una a la otra, la nube de cada panal se desplaza de su propio panal dando lugar a un **dipolo inducido**.
+
+Si bien las interacciones causadas por dipolos inducidos en moléculas no-polares son más débiles y su efecto no llega tan lejos como en las interacciones entre moléculas polares, en ambas se genera una fuerza de atracción o **cohesión**.
+
+En líquidos, las fuerzas de cohesión en moléculas al interior de un volumen hacen que estas sean jaladas por igual en todas las direcciones por las demás moléculas, resultando en una fuerza neta cero. Es decir, no se moverían a causa de la cohesión. Sin embargo, las moléculas de la superficie no tienen moléculas por encima que equilibren las fuerzas, y por ello se ven atraídas hacia el dentro del volumen. Este efecto crea una presión interna que hace que la superficie del líquido se contraiga hasta alcanzar la mínima área posible. Y, el nombre que se le da a tal efecto es el de **tensión superficial**.\n \n
+
+Dirán: “mucho de moléculas y nada de burbujas”, regresamos a ellas.
+
+Típicamente para formar una burbuja necesitamos soplar sobre una capa delgada o **película** de algún tipo de jabón acuoso. Al hacerlo correctamente, la tensión superficial del jabón logra que el aire quede encerrado, es decir, se encapsula.
+
+La estabilidad de la burbuja depende de muchos factores como: la calidad de la mezcla de jabón, la forma de la pared sobre la cual se sopló, la humedad, la temperatura, y muchos más.
+
+Si la presión del aire dentro de la burbuja fuera lo suficientemente grande como para superar la tensión superficial, la capa de jabón se rompería y la burbuja explotaría. Pero si esta presión fuera menor a la presión atmosférica, es decir, a la presión del aire fuera de la burbuja, la burbuja implotaría (explotaría hacia adentro).
+
+Cuando la presión del aire dentro de la burbuja está equilibrada de manera que no explote o implote, es cuando tenemos la condiciones para que se vuelva una burbuja estable, aunque sea por un tiempo corto.
+
+Recordemos que la tensión superficial induce que el área de la película de jabón sea la más pequeña posible, y, que la presión del aire encapsulado empuja en todas las direcciones. Siguiendo este camino podemos concluir que la forma de la burbuja tendría que ser una que encuentre un balance entre estas dos restricciones. Y justo no es sorpresa que el objeto geométrico en tres dimensiones que satisface los requerimientos de la burbuja es una de las formas “favoritas” de la naturaleza: la **esfera**. Pues estas maximizan el volumen contenido y minimizan su superficie.\n \n
+
+Otra de las cosas que hacen llamativas a las burbujas es cómo danzan por los aires. Su flotabilidad se logra gracias al **principio de Arquímedes**, vayamos a ello.
+
+Los fluidos ya sea en forma líquida o de gas, como el agua o el aire, siempre tratan de llenar el espacio donde están contenidos. Cuando un objeto está inmerso en el fluido, este en su “afán” de llenar al espacio, empujará al objeto con una fuerza igual al peso del volumen desplazado.
+
+Entonces por este principio, los fluidos harán flotar hacia arriba a objetos menos densos que ellos, y hundirse a aquellos más densos. En el caso que el objeto tuviese la misma densidad que la del fluido, este sólo flotaría de manera estática.
+
+Siguiendo esta lógica podrían pensar algo como: “bueno, pero la mezcla de aire y dióxido de carbono que exhalo es más densa que el aire, entonces, ¿por qué flotan las burbujas?”; y tendrían razón, parcialmente. Es cierto que la mezcla de aire y dióxido de carbono que exhalamos es más densa que el aire, siempre que ambas estén a la misma temperatura.
+
+Resulta que, en estos gases, aumentar la temperatura causa que se expandan, y al tener la misma cantidad de gas esto resulta en una menor densidad que la original. Por ello, el aire caliente es menos denso que el aire frío, la misma razón por la que funcionan los globos aerostáticos.\n \n
+
+Y, cuando exhalamos, la mezcla de gases tiene mayor temperatura que el aire ambiente. Esta mezcla, al ser menos densa que el aire, hace que las burbujas floten. Pero si pasa suficiente tiempo, el aire dentro de la burbuja se enfría, y al ser más denso provoca que la burbuja caiga.\n \n
+
+Las gotas también son esféricas por las mismas razones que las burbujas. Pero cuando llueve, las gotas esféricas alcanzan velocidades cada vez mayores mientras caen, y como consecuencia comienzan a deformarse. Es así como las gotas adquieren su forma característica: esférica en la dirección del suelo y puntiaguda en la dirección del cielo.
+
+Antes de continuar debemos distinguir entre burbujas y gotas. En una burbuja tenemos: el medio interior (aire encapsulado), medio con tensión superficial (la película de jabón) y medio exterior (el aire del medio ambiente); mientras que en una **gota**: medio interior y medio exterior.
+
+Entonces las pequeñas esferas que se encuentran al fondo de una bebida gaseosa no se tratan de burbujas, por más raro que parezca, sino de gotas. No obstante, lo cierto es que, a causa de la baja densidad de las gotas respecto al medio exterior, estas ascienden hasta la superficie, por principio de Arquímedes, donde podrán transformarse en burbujas y flotar o simplemente explotar.\n \n 
+
+Si alguna vez han visto cómo aparenta deformarse un lápiz, una cuchara o un huevo al ponerlos dentro de un vaso de agua, ya están familiarizados con el fenómeno llamado refracción. Un fenómeno donde la luz cambia su dirección al transmitirse por un medio diferente al original.
+
+Incluso puede que se les haga conocida la portada del famoso disco _The Dark Side of the Moon_ de _Pink Floyd_ donde un rayo de luz blanca atraviesa un prisma y se convierte en un arcoíris. Los experimentos con prismas en los que está inspirada dicha portada fueron realizados por Sir Isaac Newton y estos muestran que el color de la luz es responsable de cuánto cambia la dirección de un haz de luz al cambiar de medio, y también muestran que la luz blanca, la luz del Sol, está compuesta por todos los colores del arcoíris.\n \n 
+
+Para poder describir los fantásticos colores de las burbujas tenemos que explicar la interferencia de luz, y es justo lo que haremos a continuación.
+
+Una onda es una perturbación que viaja a través de un medio como agua, aire, sólidos o incluso a través del espacio vacío, como es el caso de la luz. Y se puede pensar como una serie de puntos altos (crestas) y puntos bajos (valles) moviéndose a lo largo del espacio.
+
+Pueden pensar en una onda como las subidas y bajadas de la red de un trampolín cuando niñas y niños saltan. Y seguramente han notado que, ya sea viéndolo o experimentándolo por cuenta propia, si están usando el trampolín y alguien más salta con el mismo ritmo que ustedes, llegarán aún más alto de lo que lo harían solos. También puede pasar lo contrario, que estén saltando con un ritmo y alguien más salta justo cuando están en su punto más alto y al llegar a la red del trampolín se detienen en seco.
+
+En estos ejemplos cada salto genera una onda en la malla del trampolín y cada onda puede interferir con otra. La interferencia puede ser constructiva (como cuando llegas más alto), destructiva (como cuando te detienes), o una combinación de ambas. Y la luz al ser una onda puede presentar interferencia.
+
+Volviendo a las burbujas, recordemos que tienen un medio con tensión superficial: la película de jabón. Esta película tiene dos caras: la que tiene contacto con el medio ambiente (superficie externa) y la que está del mismo lado que el aire encapsulado (superficie interna). Estas superficies están separadas por el pequeño grosor de la película de jabón.
+
+Cuando un rayo de luz llega a la superficie externa de la burbuja este se divide en dos partes: una que se refleja con la superficie externa y otra que se refracta en el jabón. Aquella fracción de luz refractada también tiene una parte que es reflejada por la superficie interna de la película.
+
+Por el momento pensemos sólo en dos rayos. Concentrémonos en la parte reflejada con la superficie externa del primer rayo, y en la parte refractada y posteriormente reflejada por la superficie interna del segundo rayo. Estas dos partes de los rayos originales pueden interferir y hacer que cambie su color.\n \n 
+
+Ahora imagina que la luz que le llega a una burbuja viene de todas las direcciones. Al tener luz blanca tenemos todos los colores, que al refractarse cambiarán su dirección según el color, y cada color podrá reflejarse con la superficie externa y la interna. Toda esta fiesta de interferencias sumadas a que, a causa de la gravedad, el grosor de la película del jabón no es el mismo en todos lados, hacen que las burbujas aparenten ser de varios colores distintos del arcoíris dependiendo del ángulo que la vean y de la zona de la burbuja.
+
+Este fascinante fenómeno se conoce como **iridiscencia**.\n \n 
+
+La espuma es un caso especial de cúmulos de burbujas. En los **cúmulos** de burbujas tenemos dos o más burbujas que están unidas. Y estás no son totalmente esféricas porque comparten paredes de películas de jabón. Estás paredes siguen el fundamento de una sola burbuja, minimizar el área y maximizar el volumen. Entonces estás paredes adoptan formas que logran estos objetivos.\n \n 
+
+La forma de las películas en cúmulos de burbujas sigue siendo un tema de investigación científica tanto para físico como para matemáticos.
+
+La espuma por su parte es un cúmulo de múltiples burbujas de distintos tamaños pero que podemos decir pequeñas. E, insólitamente, tenemos un efecto “reverso” a la iridiscencia: todos los colores del arcoíris de cada burbuja individual los percibimos a la vez, consiguiendo que en conjunto la espuma luzca blanca.\n \n 
+
+Tan sólo dimos un paseo en el bosque de conocimiento que ofrecen las burbujas. Imaginen lo que aprenderíamos al emprender una aventura y observando más allá de lo evidente.\n \n 
+[1] Berry, M. V., _The molecular mechanism of surface tension_, Physics Education, **6** (2), 1971. 
+
+[2] Callen, H. B., _Thermodynamics and an introduction to thermostatistics_, Wiley, 1985.
+
+[3] Subramanian, R. S., Balasubramaniam, R., _The motion of bubbles and drops in reduced gravity,_ Cambridge University Press, 2001. 
+
+[4] Stavenga, D. G., _Thin film and multilayer optics cause
+structural colors of many insects and birds,_ Materials Today: Proceedings, **1**, 2014. 
+
+[5] Klarreich, E., _‘Monumental’ math proof solves triple bubble problem and more,_ Quanta Magazine, 2022.
+
+[6] Gelfand, I. M., Fomin, S. V., _Calculus of variations,_ Dover Publications, 2000. 
+
+[7] Chang, R., Goldsby, K. A., _Chemistry,_ McGraw-Hill Education, 2012.
