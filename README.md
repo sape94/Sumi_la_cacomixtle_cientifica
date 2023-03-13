@@ -1,1 +1,1 @@
-# Sumi_la_cacomixtle_cient-fica
+# Sumi_la_cacomixtle_cientifica
