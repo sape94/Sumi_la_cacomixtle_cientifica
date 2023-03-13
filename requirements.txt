@@ -1,5 +1,5 @@
-streamlit.components.v1
-streamlit_option_menu
-streamlit_extras.switch_page_button
-PIL
+html
+option_menu
+switch_page_button
+Image
 re
