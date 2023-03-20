@@ -35,10 +35,10 @@ selected = option_menu(
     styles={
         "container": {"padding": "0!important",
                       "background-color": "#fafafa"},
-        "icon": {"color": "black", "font-size": "15px"},
-        "nav-link": {"font-size": "15px", "text-align": "centered",
+        "icon": {"color": "#7DB9B6", "font-size": "15px"},
+        "nav-link": {"color": "#31333F", "font-size": "15px", "text-align": "centered",
                      "margin": "0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "#227C70"},
+        "nav-link-selected": {"color": "#FFFFFF", "background-color": "#3A414D"},
     }
 )
 
@@ -290,7 +290,7 @@ if selected == 'Inicio':
         '''
         st.markdown(
             f'''
-            <div style="text-align: justify; color: black;
+            <div style="text-align: justify; color: "textColor";
             line-height: 120%;">{welcome_1}</div>''',
             unsafe_allow_html=True)
         st.markdown('')
@@ -302,7 +302,7 @@ if selected == 'Inicio':
         '''
         st.markdown(
             f'''
-            <div style="text-align: justify; color: black;
+            <div style="text-align: justify; color: "textColor";
             line-height: 120%;">{welcome_2}</div>''',
             unsafe_allow_html=True)
         st.markdown('')
@@ -384,7 +384,7 @@ if selected == 'Inicio':
         st.write(social_icons, unsafe_allow_html=True)
         st.markdown('')
         st.markdown('')
-        st.subheader('Coloabora con Sumi:')
+        st.subheader('Colabora con Sumi:')
         participa_1 = f'''
         Envía tus <b>comentarios</b>, tus <b>artículos</b> o
         alguna <b>colaboración</b> que quieras realizar con 
@@ -392,7 +392,7 @@ if selected == 'Inicio':
         '''
         st.markdown(
             f'''
-            <div style="text-align: justify; color: black;
+            <div style="text-align: justify; color: "textColor";
             line-height: 120%;">{participa_1}</div>''',
             unsafe_allow_html=True)
         mail = '''
