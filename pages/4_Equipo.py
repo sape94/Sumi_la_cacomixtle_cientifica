@@ -35,10 +35,10 @@ selected = option_menu(
     styles={
         "container": {"padding": "0!important",
                       "background-color": "#fafafa"},
-        "icon": {"color": "black", "font-size": "15px"},
-        "nav-link": {"font-size": "15px", "text-align": "centered",
+        "icon": {"color": "#7DB9B6", "font-size": "15px"},
+        "nav-link": {"color": "#31333F", "font-size": "15px", "text-align": "centered",
                      "margin": "0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "#227C70"},
+        "nav-link-selected": {"color": "#FFFFFF", "background-color": "#3A414D"},
     }
 )
 
